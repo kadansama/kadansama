@@ -1,9 +1,5 @@
 # Hi, I'm Aidar 👋
 
-Frontend Developer building **Tamga** · Chess Team Coach
-
-I build web applications with a focus on clean architecture, product thinking, performance and user experience.
-
 ---
 
 ## 🧑‍💻 About me
@@ -90,20 +86,6 @@ The product includes both a web interface and a mobile application for engineers
 * Focused on making defect creation and inspection workflows faster for engineers
 
 **Stack:** React, React Native, TypeScript, SQLite, FSD, REST API, Figma
-
----
-
-### 📊 Tariff Moderation System
-
-A team project from **Yandex Interface Development School** for moderating tariff drafts.
-
-* Built frontend features for tariff draft management
-* Added authorization through JWT tokens
-* Prepared the interface for automated testing
-* Worked with backend requests during parallel development
-* Configured CI/CD pipeline
-
-**Stack:** React, TypeScript, Material UI, JWT, Docker, CI/CD
 
 ---
 
