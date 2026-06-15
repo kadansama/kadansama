@@ -143,6 +143,5 @@ Platform for publishing, managing and generating miniapps for the Uzbek market.
 
 ## 📫 Contacts
 
-* GitHub: https://github.com/kadansama
 * Telegram: https://t.me/ChessProm
 * Email: [aidarchess27@gmail.com](mailto:aidarchess27@gmail.com)
