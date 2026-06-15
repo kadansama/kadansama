@@ -77,14 +77,19 @@ Worked in a team on a tariff draft moderation system for **Yandex Market**.
 
 A construction supervision product developed in collaboration with **Kazan Engineering Project LLC**.
 
+The product includes both a web interface and a mobile application for engineers working directly on construction sites.
+
 * Designed the architecture of the frontend application
-* Worked on user roles, core entities and user scenarios
+* Developed the mobile app with **React Native**
+* Implemented local data storage with **SQLite**
+* Worked on offline-first scenarios for construction site inspections
+* Designed user roles, core entities and user scenarios
 * Designed screens for projects, floor plans, defects, statuses and reports
 * Prepared UI prototypes in Figma
 * Participated in API requirements planning
 * Focused on making defect creation and inspection workflows faster for engineers
 
-**Stack:** React, TypeScript, FSD, REST API, Figma
+**Stack:** React, React Native, TypeScript, SQLite, FSD, REST API, Figma
 
 ---
 
