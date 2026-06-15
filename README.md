@@ -11,7 +11,6 @@ I build web applications with a focus on clean architecture, product thinking, p
 * 🎓 Student at **KSUAE**, Information Systems and Technologies in Construction
 * 🚀 Graduate of **Yandex Interface Development School**
 * 📚 Completed **CS50: Introduction to Computer Science** by Harvard University
-* ♟️ Chess team coach
 
 ---
 
