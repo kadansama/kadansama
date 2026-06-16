@@ -1,5 +1,7 @@
 # Hi, I'm Aidar 👋
 
+Frontend developer focused on building practical products from idea to release. I enjoy working at the intersection of engineering and product thinking - designing architectures, collaborating with stakeholders, and turning complex workflows into simple user experiences.
+
 ---
 
 ## 🧑‍💻 About me
