@@ -1,131 +1,87 @@
-# Hi, I'm Aidar 👋
+# Aidar Kadyrgulov
 
-Frontend developer focused on building practical products from idea to release. I enjoy working at the intersection of engineering and product thinking - designing architectures, collaborating with stakeholders, and turning complex workflows into simple user experiences.
+**Frontend Developer**
 
----
+email: [aidarchess27@gmail.com](mailto:aidarchess27@gmail.com)
 
-## 🧑‍💻 About me
-* 🏗️ Building **Tamga** in collaboration with **Kazan Engineering Project LLC**
-* 🎓 Student at **KSUAE**, Information Systems and Technologies in Construction
-* 🚀 Graduate of **Yandex Interface Development School**
-* 📚 Completed **CS50: Introduction to Computer Science** by Harvard University
+tg: [@chessprom](https://t.me/ChessProm)  
 
----
+## Experience
 
-## 🛠️ Tech Stack
+### T1 — Frontend Developer
+**Corporate Course Builder** · July 2026 — Present
 
-### Frontend
+- Built a TipTap-based rich text editor with custom extensions
+- Designed an extensible drag-and-drop lesson builder
+- Implemented autosave with a unified undo/redo history
+- Set up automatic TypeScript type and API client generation with Orval
 
-* **TypeScript**, **JavaScript**
-* **React**, **Next.js** / **React Router**
-* **TanStack Query**, **MobX**, **Zustand**
-* **Tailwind CSS**, **CSS Modules**, **SCSS**, **MUI**
-* **React Hook Form**
-* **Vitest**, **Playwright**
+**Stack:** React · TypeScript · TanStack Query · Admiral Kit · CASL · Orval · TipTap
 
-### Tools & Infrastructure
+### IP Maltsev A.I. — Frontend Developer
+**Music web service · 100K+ monthly users** · November 2023 — February 2025
 
-* **Git**,
-* **CI/CD** with GitHub Actions
-* **Docker**
-* **Swagger**, REST API integration
-* **Vite**, Webpack
+- Migrated the legacy frontend from PHP to React and TypeScript
+- Integrated a new music engine into the application
+- Reduced page load time by 20%
 
-### Backend basics
-
-* **Python**, **FastAPI**
-* **PHP**
-* **MySQL**
+**Stack:** React · TypeScript · MobX · CSS Modules
 
 ---
 
-## 💼 Experience
+## Key Skills
 
-### Frontend Developer — IP Maltsev A.I.
-
-Worked on a music web platform with a monthly audience of **117,000+ users**.
-
-* Built and maintained frontend components
-* Managed application state with **MobX**
-* Integrated frontend with backend services using **Swagger** and REST API
-* Improved page loading performance by optimizing frontend assets and UI logic
-* Focused on UI/UX quality and stable user experience
-
-**Stack:** React, TypeScript, JavaScript, MobX, CSS Modules, Swagger
+React · TypeScript · Node.js · TanStack Query · Docker · FSD  
+Git · Orval · Contract-First · CASL
 
 ---
 
-### Frontend Developer — Yandex Interface Development School
+## Education
 
-Worked in a team on a tariff draft moderation system for **Yandex Market**.
-
-* Developed frontend interface features
-* Implemented JWT-based authorization
-* Added `test-id` attributes for UI testing
-* Used **Tweak** to work with backend requests while frontend and backend were developed in parallel
-* Set up CI/CD processes
-
-**Stack:** React, TypeScript, Material UI, JWT, Docker, CI/CD, Yandex Cloud
+**Kazan State University of Architecture and Engineering (KSUAE)**  
+Department of Information Systems and Technologies · Expected graduation — 2027
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🏗️ Tamga
+### 01 — Tamga
+**Construction supervision application**
 
-A construction supervision product developed in collaboration with **Kazan Engineering Project LLC**.
+- Brought the product to MVP and launched a pilot with employees of Kazan Engineering Project LLC
+- Implemented local storage and data synchronization for offline operation
+- Developed web and mobile versions of the application
+- Participated in the competitive selection of the UMNIK program
 
-The product includes both a web interface and a mobile application for engineers working directly on construction sites.
+### 02 — Play On
+**Online cinema**
 
-* Designed the architecture of the frontend application
-* Developed the mobile app with **React Native**
-* Implemented local data storage with **SQLite**
-* Worked on offline-first scenarios for construction site inspections
-* Designed user roles, core entities and user scenarios
-* Designed screens for projects, floor plans, defects, statuses and reports
-* Prepared UI prototypes in Figma
-* Participated in API requirements planning
-* Focused on making defect creation and inspection workflows faster for engineers
+- Integrated the external Kinopoisk API through a proxy/serverless solution
+- Implemented infinite scroll for movie cards
+- Set up client-side caching with TanStack Query
 
-**Stack:** React, React Native, TypeScript, SQLite, FSD, REST API, Figma
+**Demo:** [play-on-pearl.vercel.app](https://play-on-pearl.vercel.app/)
 
----
+### 03 — Tariffnitsa
+**Tariff draft moderation service**
 
-### 🎬 Play On
+- Implemented resolution templates with automatic tariff data substitution, reducing moderators' manual actions
+- Based on the project model, the solution is expected to reduce approvers' workload by 20%
+- Developed as part of a summer school project for Yandex Market
 
-Online cinema web application.
+### 04 — Miniapps Platform
+**Platform for managing miniapps**
 
-* Built movie and TV series catalog
-* Added search, filters and detail pages
-* Implemented registration and authorization
-* Configured client-side caching and server state management with **TanStack Query**
-* Added infinite scroll and responsive UI
-* Integrated external movie API through a proxy/serverless solution
-* Covered part of business logic and UI with unit tests
-
-**Stack:** React, TypeScript, TanStack Query, FSD, React Router, REST API, CSS Modules, Vitest
-
-**GitHub:** https://github.com/kadansama
-**Demo:** https://play-on-pearl.vercel.app/
+- International hackathon focused on Uzbekistan's fintech market
+- Implemented miniapp embedding into external applications with context transfer between host and miniapp
+- Set up access control and seamless SSO authentication
 
 ---
 
-### ⚡ Miniapps Platform — CodeStorm 2026
+## Courses & Practice
 
-Platform for publishing, managing and generating miniapps for the Uzbek market.
+**2026** — Project Summer Practice · VK  
+**2025** — Yandex Interface Development School · Yandex  
+**2023** — CS50: Introduction to Computer Science · Harvard University
 
-* Implemented miniapp publishing by URL
-* Added miniapp generation based on user prompts
-* Designed role-based access for users and administrators
-* Built a metrics dashboard for miniapp interactions
-* Added user action audit logging
-* Integrated REST API with JWT authentication
-
-**Stack:** React, TypeScript, REST API, JWT, dashboard UI
-
----
-
-## 📫 Contacts
-
-* Telegram: https://t.me/ChessProm
-* Email: [aidarchess27@gmail.com](mailto:aidarchess27@gmail.com)
+**Languages:** Russian — Native · English — B2
