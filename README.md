@@ -9,7 +9,7 @@ tg: [@chessprom](https://t.me/ChessProm)
 ## Experience
 
 ### T1 — Frontend Developer
-**Corporate Course Builder** · July 2026 — Present
+**Corporate Course Builder** · July 2026 — October 2026
 
 - Built a TipTap-based rich text editor with custom extensions
 - Designed an extensible drag-and-drop lesson builder
